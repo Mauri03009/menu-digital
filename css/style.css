@@ -28,3 +28,24 @@ a{
     margin-left: 10px;
     font-weight: bolder;
 }
+
+main{
+    text-align: center;
+    margin: 20px;
+}
+
+main img{
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    display: inline-block;    
+}
+
+h2{
+    display: inline-block;
+    font-size: 20px;
+}
+
+
+
+
