@@ -46,6 +46,21 @@ h2{
     font-size: 20px;
 }
 
+ul{
+    text-align: left;  
+    background-color: rgb(148, 148, 116);     
+}
+
+li{
+    padding: 5px; 
+    
+}
+
+p{
+    text-align: right;
+    
+}
+
 
 
 
